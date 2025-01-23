@@ -1,0 +1,15 @@
+{
+    "bird": 0,
+    "boar": 1,
+    "dog": 2,
+    "dragon": 3,
+    "hare": 4,
+    "horse": 5,
+    "monkey": 6,
+    "ox": 7,
+    "ram": 8,
+    "rat": 9,
+    "snake": 10,
+    "tiger": 11,
+    "zero": 12
+}
